@@ -1,0 +1,5 @@
+Number=input("Enter a Number: ")
+print("Number before conversion: ",Number)
+int_Number=int(Number)
+print("Number after conversion: ",int_Number)
+print("Absolute value of the number is: ",abs(int_Number))
