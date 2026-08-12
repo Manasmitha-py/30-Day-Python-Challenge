@@ -8,5 +8,5 @@ Progress: 3 / 30 days
 Day 01 — 9 problems ✅
 Day 02 — 6 problems ✅
 Day 03 — 9 problems ✅
-Day 04 — 🔄
+Day 04 — 8 problems ✅
 ...
